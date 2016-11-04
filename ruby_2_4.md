@@ -9,6 +9,12 @@ date
 allotted-time
 :   30m
 
+# スライド URL など
+
+* http://slide.rabbit-shocker.org/authors/znz/rubykansai75-ruby24
+  * `rabbit slide` で検索すると出てくる Rabbit Slide Show で公開
+* ハッシュタグ `#rubykansai`
+
 # 自己紹介
 
 * 西山和広
